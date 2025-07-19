@@ -167,5 +167,3 @@ Este relatório sintetiza dados atualizados e confiáveis sobre o Brasil, indica
 - [Ministério do Turismo](https://www.gov.br/turismo/pt-br)
 
 ---
-
-Se quiser, posso ajudar a formatar esse relatório para impressão ou PDF, ou em páginas HTML para seu site. Quer?
