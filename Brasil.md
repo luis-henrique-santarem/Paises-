@@ -120,4 +120,3 @@ A economia brasileira é a maior da América Latina e uma das maiores do mundo, 
 
 ---
 
-Se quiser, posso salvar esse arquivo pra você em .md para usar direto no seu projeto. Quer que eu faça isso?
